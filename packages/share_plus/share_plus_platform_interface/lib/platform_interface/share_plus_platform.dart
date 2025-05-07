@@ -36,6 +36,7 @@ class SharePlatform extends PlatformInterface {
   }
 }
 
+// ShareParams comment
 class ShareParams {
   /// The text to share
   ///
